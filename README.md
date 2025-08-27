@@ -1,3 +1,3 @@
 # Способ открыть
 
-main > master > shopping.py
+main > master > hello.py
