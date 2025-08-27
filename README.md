@@ -1,1 +1,3 @@
-# shopping_list
+# Способ открыть
+
+main > master > shopping.py
